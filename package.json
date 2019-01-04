@@ -1,0 +1,22 @@
+{
+    "name": "synthax",
+    "displayName": "Synthax",
+    "description": "80's insired futuristic theme with rich colors",
+    "version": "0.0.1",
+    "publisher": "foxhoundn",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Synthax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Synthax-color-theme.json"
+            }
+        ]
+    }
+}
