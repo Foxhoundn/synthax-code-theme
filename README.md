@@ -1,4 +1,4 @@
-![alt text](/themes/img/logo.jpg "Synthax theme")
+![alt text](/themes/img/synthax_logo.png "Synthax theme")
 
 ## \<SYNTHAX /> dark theme for VS Code
 
