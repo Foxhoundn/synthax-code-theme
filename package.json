@@ -1,22 +1,22 @@
 {
-    "name": "synthax",
-    "displayName": "Synthax",
-    "description": "80's insired futuristic theme with rich colors",
-    "version": "0.0.1",
-    "publisher": "foxhoundn",
-    "engines": {
-        "vscode": "^1.30.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Synthax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Synthax-color-theme.json"
-            }
-        ]
-    }
+  "name": "synthax",
+  "displayName": "Synthax",
+  "description": "WIP: Become the unstoppable HACKERMAN with this 80's retro futuristic inspired dark theme.",
+  "version": "0.0.1",
+  "publisher": "foxhoundn",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Synthax-color-theme.json"
+      }
+    ]
+  }
 }
