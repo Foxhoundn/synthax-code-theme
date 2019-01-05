@@ -398,16 +398,14 @@
     },
     {
       "name": "Other Object Variable",
-      "scope": ["variable.other.object"],
+      "scope": ["variable.other.object", "variable.other.constant"],
       "settings": {
-        "foreground": "#2de2e6",
-        "fontStyle": ""
+        "foreground": "#2de2e6"
       }
     },
     {
       "name": "Variables, Declarations, Etc.",
       "scope": [
-        "variable.other.constant",
         "variable.object.property",
         "meta.definition.variable",
         "meta.import"
