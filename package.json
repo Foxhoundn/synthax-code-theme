@@ -7,6 +7,20 @@
   "engines": {
     "vscode": "^1.30.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Foxhoundn/synthax-code-theme"
+  },
+  "keywords": [
+    "theme",
+    "VS Code",
+    "vscode",
+    "themes",
+    "retro",
+    "futuristic",
+    "synths",
+    "80s"
+  ],
   "categories": [
     "Themes"
   ],
