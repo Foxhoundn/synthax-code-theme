@@ -4,6 +4,7 @@
   "description": "WIP: Become the unstoppable HACKERMAN with this 80's retro futuristic inspired dark theme.",
   "version": "0.0.1",
   "publisher": "foxhoundn",
+  "icon": "themes/img/logo.jpg",
   "engines": {
     "vscode": "^1.30.0"
   },
