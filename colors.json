@@ -1,6 +1,16 @@
 {
   "Editor Background": "#0D0221",
+  "Editor Tabs Background": "#171023",
   "Main Text Color": "#bca1ea",
-  "Editor Text Color": "#c46ac2",
-  "Variable Color": "#2de2e6"
+  "Editor Boolean Color": "#c46ac2",
+  "Editor Text Color": "#e04cdd",
+  "Variable Color": "#2de2e6",
+  "Types Text Color": "#c19dc4",
+  "Error Color": "#D40078",
+  "Numeric Color": "#F9C80E",
+  "Badge Background": "#4c97b2",
+  "Border Color": "#241938",
+  "Selection Background": "#334868",
+  "Built-ins Color": "#e08c26",
+  "String/Success Color": "#28ba80"
 }
