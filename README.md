@@ -2,7 +2,9 @@
 
 ## SYNTHAX Visual Studio Code theme
 
-Become the unstoppable Hackerman with this 80's retro futuristic inspired dark theme.
+WIP: Become the unstoppable Hackerman with this 80's retro futuristic inspired dark theme.
+
+This theme is still work in progress, and right now works only with **.js and .jsx** files.
 
 ![alt text](/themes/img/code.png "Synthax theme")
 
