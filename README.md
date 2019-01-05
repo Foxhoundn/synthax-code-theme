@@ -1,5 +1,17 @@
 ![alt text](/themes/img/logo.jpg "Synthax theme")
 
-# SYNTHAX Visual Studio Code theme
+## SYNTHAX Visual Studio Code theme
 
-## Become the unstoppable Hackerman with this 80's retro futuristic inspired dark theme.
+Become the unstoppable Hackerman with this 80's retro futuristic inspired dark theme.
+
+![alt text](/themes/img/code.png "Synthax theme")
+
+# Installing
+
+1. **Using VS Code**
+
+   In your VS Code, go to the extensions tab and search for **Synthax**, then click on Install and reload once the theme is installed.
+
+2. **By cloning this repo**
+
+   Clone this repo to your machine, and copy it's contents to the _vscode/extensions_ folder.
