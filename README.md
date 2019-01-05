@@ -1,10 +1,10 @@
 ![alt text](/themes/img/logo.jpg "Synthax theme")
 
-## SYNTHAX Visual Studio Code theme
+## \<SYNTHAX /> dark theme for VS Code
 
-WIP: Become the unstoppable Hackerman with this 80's retro futuristic inspired dark theme.
+WIP: Ride on the retro waves of future with this dark colorful theme for VS Code
 
-This theme is still work in progress, and right now works only with **.js and .jsx** files.
+This theme is still work in progress, and right now works only with **.js, .jsx and .json** files.
 
 ![alt text](/themes/img/code.png "Synthax theme")
 
