@@ -297,7 +297,8 @@
         "support.variable.dom",
         "support.constant.math",
         "support.class.builtin",
-        "support.class.console"
+        "support.class.console",
+        "support.variable.object.process"
       ],
       "settings": {
         "foreground": "#e08c26"
