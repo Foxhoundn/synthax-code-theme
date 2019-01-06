@@ -6,11 +6,12 @@
     "editor.background": "#0D0221",
     "editor.foreground": "#d0b7ff",
     "editorGroupHeader.tabsBackground": "#171023",
-    "editor.lineHighlightBackground": "#12022f",
+    "editor.lineHighlightBackground": "#1f0233",
     "editorCursor.foreground": "#d65cd3",
     "textLink.activeForeground": "#d65cd3",
     "textLink.foreground": "#d65cd3",
     "editorLineNumber.foreground": "#d0b7ff",
+    "editorLineNumber.activeForeground": "#d65cd3",
     "foreground": "#d0b7ff",
     "editorGroup.border": "#241938",
     "editorWidget.background": "#171023",
@@ -84,16 +85,16 @@
     "editor.selectionBackground": "#2c1e49",
 
     // LISTS
-    "list.focusBackground": "#12022f",
+    "list.focusBackground": "#1f0233",
     "list.focusForeground": "#d0b7ff",
     "list.highlightForeground": "#fff",
-    "list.hoverBackground": "#12022f",
+    "list.hoverBackground": "#1f0233",
     "list.hoverForeground": "#d0b7ff",
     "list.activeSelectionForeground": "#fff",
     "list.inactiveSelectionForeground": "#d0b7ff",
-    "list.activeSelectionBackground": "#12022f",
-    "list.inactiveFocusBackground": "#12022f",
-    "list.inactiveSelectionBackground": "#12022f",
+    "list.activeSelectionBackground": "#1f0233",
+    "list.inactiveFocusBackground": "#1f0233",
+    "list.inactiveSelectionBackground": "#1f0233",
     "list.errorForeground": "#D40078",
     "list.warningForeground": "#e08c26",
 
@@ -108,10 +109,10 @@
 
     // PEEK VIEW
     "peekView.border": "#241938",
-    "peekViewEditor.background": "#12022f",
-    "peekViewTitle.background": "#12022f",
+    "peekViewEditor.background": "#1f0233",
+    "peekViewTitle.background": "#1f0233",
     "peekViewEditor.matchHighlightBackground": "#d65cd3",
-    "peekViewResult.background": "#12022f",
+    "peekViewResult.background": "#1f0233",
     "peekViewTitleDescription.foreground": "#d0b7ff",
 
     // SCROLLBAR
