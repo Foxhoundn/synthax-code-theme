@@ -237,7 +237,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#28ba80",
+        "foreground": "#21ce97",
         "fontStyle": "italic"
       }
     },
@@ -399,7 +399,8 @@
         "variable.other.property",
         "variable.other.constant.property",
         "support.variable.property.dom",
-        "support.variable.property"
+        "support.variable.property",
+        "meta.jsx.children"
       ],
       "settings": {
         "foreground": "#ddd",
