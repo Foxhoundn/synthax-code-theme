@@ -22,6 +22,12 @@
     "titleBar.inactiveBackground": "#0D0221",
     "titleBar.activeForeground": "#bca1ea",
     "titleBar.inactiveForeground": "#bca1ea",
+    "editor.findMatchHighlightBackground": "#2c1e49",
+    "editor.selectionHighlightBackground": "#2c1e49",
+    "editor.findRangeHighlightBackground": "#2c1e49",
+    "editor.rangeHighlightBackground": "#2c1e49",
+    "editor.wordHighlightBackground": "#2c1e49",
+    "editor.findMatchBackground": "#4d3f6b",
 
     // SUGGESTIONS
     "editorSuggestWidget.background": "#171023",
@@ -44,13 +50,14 @@
     // INPUTS
     "input.background": "#0D0221",
     "input.border": "#bca1ea",
-    "input.foreground": "#bca1ea",
-    "input.placeholderForeground": "#4c97b2",
-    "focusBorder": "#2de2e6",
+    "input.foreground": "#fff",
+    "input.placeholderForeground": "#bca1ea",
+    "focusBorder": "#d65cd3",
 
-    // COLORS
-    "gitDecoration.addedResourceForeground": "#28ba80",
-    "gitDecoration.untrackedResourceForeground": "#28ba80",
+    // GIT
+    "gitDecoration.addedResourceForeground": "#21ce97",
+    "gitDecoration.modifiedResourceForeground": "#e08c26",
+    "gitDecoration.untrackedResourceForeground": "#21ce97",
 
     // DROPDOWNS
     "dropdown.background": "#0D0221",
@@ -73,8 +80,8 @@
     "breadcrumbPicker.background": "#0D0221",
 
     // SELECTION
-    "selection.background": "#334868",
-    "editor.selectionBackground": "#334868",
+    "selection.background": "#4d3f6b",
+    "editor.selectionBackground": "#2c1e49",
 
     // LISTS
     "list.focusBackground": "#12022f",

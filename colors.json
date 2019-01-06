@@ -1,6 +1,6 @@
 {
   "Editor Background": "#0D0221",
-  "Editor Tabs Background": "#171023",
+  "Editor Tabs, PeekView Background": "#171023",
   "Main Text Color": "#bca1ea",
   "Editor Boolean Color": "#c46ac2",
   "Editor Text Color": "#e04cdd",
@@ -12,5 +12,7 @@
   "Border Color": "#241938",
   "Selection Background": "#334868",
   "Built-ins Color": "#e08c26",
-  "String/Success Color": "#28ba80"
+  "String/Success Color": "#21ce97",
+  "Highlight Color": "#2c1e49",
+  "Selection Color": "#4d3f6b"
 }
