@@ -1,8 +1,6 @@
 <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/synthax_logo.png" alt="Syntax Theme Code Example" width="800" />
 
-# SYNTHAX - dark theme for VS Code
-
-WIP: Ride on the retro waves of future with this dark colorful theme for VS Code
+# SYNTHAX - Ride on the retro waves of future with this dark colorful theme for VS Code.
 
 This theme is still work in progress, and right now works only with **.js, .jsx and .json** files.
 
