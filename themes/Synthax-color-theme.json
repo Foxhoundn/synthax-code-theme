@@ -18,6 +18,10 @@
     "editorError.foreground": "#D40078",
     "editorWarning.foreground": "#e08c26",
     "editorBracketMatch.border": "#2de2e6",
+    "titleBar.activeBackground": "#0D0221",
+    "titleBar.inactiveBackground": "#0D0221",
+    "titleBar.activeForeground": "#bca1ea",
+    "titleBar.inactiveForeground": "#bca1ea",
 
     // SUGGESTIONS
     "editorSuggestWidget.background": "#171023",
@@ -27,6 +31,10 @@
     // STATUS BAR
     "statusBar.background": "#0D0221",
     "statusBar.foreground": "#bca1ea",
+    "statusBar.debuggingBackground": "#d65cd3",
+    "statusBar.debuggingForeground": "#fff",
+    "statusBar.noFolderBackground": "#4c97b2",
+    "statusBar.noFolderForeground": "#fff",
 
     // SIDEBAR
     "sideBar.background": "#0D0221",
@@ -288,7 +296,8 @@
       "scope": [
         "support.variable.dom",
         "support.constant.math",
-        "support.class.builtin"
+        "support.class.builtin",
+        "support.class.console"
       ],
       "settings": {
         "foreground": "#e08c26"
@@ -440,7 +449,11 @@
       }
     },
     {
-      "scope": ["meta.definition.property", "meta.definition.method"],
+      "scope": [
+        "meta.definition.property",
+        "meta.definition.method",
+        "meta.definition.function"
+      ],
       "settings": {
         "foreground": "#d65cd3",
         "fontStyle": "bold"
