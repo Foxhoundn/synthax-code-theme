@@ -33,6 +33,9 @@ This theme is still work in progress, and right now works only with **.js, .jsx 
 - Booleans use pink color  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/boolean.png" alt="Syntax Theme | Boolean Example" />
 
+- Null, undefined & NaN use purple color  
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/null.png" alt="Syntax Theme | Boolean Example" />
+
 - Objects & object properties use variables color for the object identifier & white/respectice colors for object properties  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/objects.png" alt="Syntax Theme | Objects Example" />
 
@@ -44,6 +47,14 @@ This theme is still work in progress, and right now works only with **.js, .jsx 
 
 - Tags are separated into 2 categories - native tags have variable color, React components have class color  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/tags.png" alt="Syntax Theme | Tags Example" />
+
+## Known issues
+
+- If there is a new line present in the function declaration parenthesis, the parameters annotations have variable color and any modifiers have function colors.  
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-correct.png" alt="Syntax Theme | Function params correct Example" />
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-wrong.png" alt="Syntax Theme | Function params error Example" />
+
+  Issue was raised here - https://github.com/Microsoft/vscode/issues/66149
 
 ## Contributions are welcome
 
