@@ -446,7 +446,7 @@
       "name": "Boolean, Function name",
       "scope": ["constant.language.boolean"],
       "settings": {
-        "foreground": "#d65cd3"
+        "foreground": "#e08c26"
       }
     },
     {
