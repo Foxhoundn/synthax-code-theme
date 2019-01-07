@@ -450,6 +450,17 @@
       }
     },
     {
+      "name": "Boolean, Function name",
+      "scope": [
+        "constant.language.null",
+        "constant.language.undefined",
+        "constant.language.nan"
+      ],
+      "settings": {
+        "foreground": "#8066e8"
+      }
+    },
+    {
       "name": "Function Call",
       "scope": [
         "meta.function-call",
