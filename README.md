@@ -22,7 +22,7 @@ This theme is still work in progress, and right now works only with **.js, .jsx 
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/variables.png" alt="Syntax Theme | Variables Example" />
 
 - Functions & Classes use a bright pink color. Their definitions are in bold, whereas calls / reassignments have no font style.  
-  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/functions.png" alt="Syntax Theme | Functions Example"  />
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/functions-classes.png" alt="Syntax Theme | Functions Example"  />
 
 - Strings use green color  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/strings.png" alt="Syntax Theme | Strings Example" />
