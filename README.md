@@ -41,7 +41,7 @@
 
    Clone this repo to your machine, and copy it's contents to the _vscode/extensions_ folder.
 
-## 💜💙💜💙&nbsp; Colors as clear representation of syntax
+## 💜&nbsp; Colors as clear representation of syntax
 
 - Variables use a very prominent light blue-to-green color. Variable definitions are in bold, whereas variable calls / reassignments have no font style.  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/variables.png" alt="Syntax Theme | Variables Example" />
@@ -76,7 +76,7 @@
 ## 🛑&nbsp; Known issues
 
 - If there is a new line present in the function declaration parenthesis, the parameters annotations have variable color and any modifiers have function colors.  
-  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-correct.png" alt="Syntax Theme | Function params correct Example" />
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-correct.png" alt="Syntax Theme | Function params correct Example" />  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-wrong.png" alt="Syntax Theme | Function params error Example" />
 
   Issue was raised here - https://github.com/Microsoft/vscode/issues/66149
@@ -84,5 +84,7 @@
 ## 🔥&nbsp; Contributions are welcome
 
 As this is a very early version, all contributions & comments are more than welcome!
+
+<img src="https://img.shields.io/twitter/follow/espadrine.svg?label=Follow me on Twitter&style=for-the-badge&colorB=2de2e6&colorA=171023" alt="Follow me on Twitter - Foxhoundn" />
 
 </div>
