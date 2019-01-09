@@ -5,7 +5,7 @@
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/synthax_logo.png" alt="Syntax Theme Code Example" width="900" />
   <br />
   <br />
-  <img src="themes/img/symbol.png" alt="Syntax Theme" />
+  <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/symbol.png" alt="Syntax Theme" />
   <h2>Ride on the retro waves of future with this dark colorful theme for VS Code. </h2>
 
 </div>
