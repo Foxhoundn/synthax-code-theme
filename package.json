@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.30.0"
   },
+  "galleryBanner": {
+    "color": "#0D0221",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Foxhoundn/synthax-code-theme"
