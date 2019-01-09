@@ -3,23 +3,29 @@
 <div align="center">
   <br/>
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/synthax_logo.png" alt="Syntax Theme Code Example" width="900" />
-  <h1 > <img src="themes/img/symbol.png" alt="Syntax Theme" /> SYNTHAX <br/>  Ride on the retro waves of future with this dark colorful theme for VS Code. </h1>
-    [![](https://img.shields.io/vscode-marketplace/v/foxhoundn.synthax.svg?label=Synthax&style=for-the-badge&colorB=e04cdd&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
-    [![](https://img.shields.io/vscode-marketplace/d/foxhoundn.synthax.svg?style=for-the-badge&colorB=2de2e6&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
-    ![](https://img.shields.io/github/last-commit/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=21ce97&colorA=171023)&nbsp;
-    ![](https://img.shields.io/github/issues/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=e08c26&colorA=171023)&nbsp;
-</div>
+  <h1><img src="themes/img/symbol.png" alt="Syntax Theme" /> SYNTHAX <br/>  Ride on the retro waves of future with this dark colorful theme for VS Code. </h1>
 
-<table align="center" width="800" border="1" >
+[![](https://img.shields.io/vscode-marketplace/v/foxhoundn.synthax.svg?label=Synthax&style=for-the-badge&colorB=e04cdd&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
+[![](https://img.shields.io/vscode-marketplace/d/foxhoundn.synthax.svg?style=for-the-badge&colorB=2de2e6&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
+![](https://img.shields.io/github/last-commit/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=21ce97&colorA=171023)&nbsp;
+![](https://img.shields.io/github/issues/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=e08c26&colorA=171023)&nbsp;
+
+</div>
+<br />
+<table align="center" width="800">
   <tr>
-    <td bgcolor="#2c1e49" width="50" align="center">🚧 </td>
-    <td>&nbsp; _This theme is still work in progress, and right now works only with **.js, .jsx and .json** files._</td>
+    <td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
+    <td align="center">&nbsp; This theme is still work in progress, and right now works only with **.js, .jsx and .json** files </td>
+    <td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
   </tr>
 </table>
 <br />
+
+## 🔮&nbsp; Code Example
+
 <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/code.png" alt="Syntax Theme Code Example" width="800" align="center" />
 
-## Installing
+## 🖥 &nbsp; Installing
 
 1. **Using VS Code**
 
@@ -29,7 +35,7 @@
 
    Clone this repo to your machine, and copy it's contents to the _vscode/extensions_ folder.
 
-## Colors as clear representation of syntax
+## 💜💙🧡&nbsp; Colors as clear representation of syntax
 
 - Variables use a very prominent light blue-to-green color. Variable definitions are in bold, whereas variable calls / reassignments have no font style.  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/variables.png" alt="Syntax Theme | Variables Example" />
@@ -61,7 +67,7 @@
 - Tags are separated into 2 categories - native tags have variable color, React components have class color  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/tags.png" alt="Syntax Theme | Tags Example" />
 
-## Known issues
+## 🛑&nbsp; Known issues
 
 - If there is a new line present in the function declaration parenthesis, the parameters annotations have variable color and any modifiers have function colors.  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/parameters-correct.png" alt="Syntax Theme | Function params correct Example" />
@@ -69,7 +75,7 @@
 
   Issue was raised here - https://github.com/Microsoft/vscode/issues/66149
 
-## Contributions are welcome
+## 🔥&nbsp; Contributions are welcome
 
 As this is a very early version, all contributions & comments are more than welcome!
 
