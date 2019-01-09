@@ -85,6 +85,6 @@
 
 As this is a very early version, all contributions & comments are more than welcome!
 
-<img src="https://img.shields.io/twitter/follow/espadrine.svg?label=Follow me on Twitter&style=for-the-badge&colorB=2de2e6&colorA=171023" alt="Follow me on Twitter - Foxhoundn" />
+<img src="https://img.shields.io/twitter/follow/espadrine.svg?label=Twitter&style=for-the-badge&colorB=2de2e6&colorA=171023" alt="Follow me on Twitter - Foxhoundn" />
 
 </div>
