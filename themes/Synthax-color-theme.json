@@ -155,6 +155,7 @@
         "entity.name.type",
         "entity.name.type.module",
         "support.type.primitive",
+        "support.type.python",
         "comment",
         "punctuation.definition.comment"
       ],
@@ -242,7 +243,7 @@
         "constant.other.key",
         "markup.heading",
         "markup.inserted.git_gutter",
-        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+        "meta.group.braces.curly constant.other.object.key string.unquoted.label"
       ],
       "settings": {
         "foreground": "#21ce97",
@@ -260,7 +261,9 @@
         "support.type.sys-types",
         "entity.other.inherited-class",
         "entity.name.type.class",
-        "variable.other.constant entity.name.function"
+        "variable.other.constant entity.name.function",
+        "entity.name.function.python",
+        "support.function.magic.python"
       ],
       "settings": {
         "foreground": "#d65cd3",
@@ -284,9 +287,9 @@
     {
       "name": "Sub-methods",
       "scope": [
-        "entity.name.module.js",
-        "variable.import.parameter.js",
-        "variable.other.class.js"
+        "entity.name.module",
+        "variable.import.parameter",
+        "variable.other.class"
       ],
       "settings": {
         "foreground": "#FF5370"
@@ -418,7 +421,14 @@
     },
     {
       "name": "Other Object Variable",
-      "scope": ["variable.other.object", "variable.other.constant"],
+      "scope": [
+        "variable.other.object",
+        "variable.other.constant",
+        "variable.language.special.self",
+        "source.python",
+        "constant.other.caps.python",
+        "meta.item-access.python"
+      ],
       "settings": {
         "foreground": "#2de2e6"
       }
@@ -437,7 +447,11 @@
     },
     {
       "name": "This",
-      "scope": ["variable.language.this", "storage.modifier.async"],
+      "scope": [
+        "variable.language.this",
+        "storage.modifier.async",
+        "variable.language.special.self"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
