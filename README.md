@@ -3,21 +3,27 @@
 <div align="center">
   <br/>
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/synthax_logo.png" alt="Syntax Theme Code Example" width="900" />
-  <h1><img src="themes/img/symbol.png" alt="Syntax Theme" /> SYNTHAX <br/>  Ride on the retro waves of future with this dark colorful theme for VS Code. </h1>
-
-[![](https://img.shields.io/vscode-marketplace/v/foxhoundn.synthax.svg?label=Synthax&style=for-the-badge&colorB=e04cdd&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
-[![](https://img.shields.io/vscode-marketplace/d/foxhoundn.synthax.svg?style=for-the-badge&colorB=2de2e6&colorA=171023)](https://marketplace.visualstudio.com/items?itemName=foxhoundn.synthax)&nbsp;
-![](https://img.shields.io/github/last-commit/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=21ce97&colorA=171023)&nbsp;
-![](https://img.shields.io/github/issues/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=e08c26&colorA=171023)&nbsp;
+  <br />
+  <br />
+  <img src="themes/img/symbol.png" alt="Syntax Theme" />
+  <h2>Ride on the retro waves of future with this dark colorful theme for VS Code. </h2>
 
 </div>
 <br />
 <table align="center" width="800">
-  <tr>
-    <td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
-    <td align="center">&nbsp; This theme is still work in progress, and right now works only with **.js, .jsx and .json** files </td>
-    <td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
-  </tr>
+<tr>
+<td colspan="3" align="center">
+<img src="https://img.shields.io/vscode-marketplace/v/foxhoundn.synthax.svg?label=Synthax&style=for-the-badge&colorB=e04cdd&colorA=171023" />&nbsp;
+<img src="https://img.shields.io/vscode-marketplace/d/foxhoundn.synthax.svg?style=for-the-badge&colorB=2de2e6&colorA=171023" />&nbsp;
+<img src="https://img.shields.io/github/last-commit/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=21ce97&colorA=171023" />&nbsp;
+<img src="https://img.shields.io/github/issues/foxhoundn/synthax-code-theme.svg?style=for-the-badge&colorB=e08c26&colorA=171023" />&nbsp;
+</td>
+</tr>
+<tr>
+<td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
+<td align="center">&nbsp; This theme is still work in progress, and right now works only with **.js, .jsx and .json** files </td>
+<td bgcolor="#2c1e49" width="40" align="center">🚧 </td>
+</tr>
 </table>
 <br />
 
@@ -35,7 +41,7 @@
 
    Clone this repo to your machine, and copy it's contents to the _vscode/extensions_ folder.
 
-## 💜💙🧡&nbsp; Colors as clear representation of syntax
+## 💜💙💜💙&nbsp; Colors as clear representation of syntax
 
 - Variables use a very prominent light blue-to-green color. Variable definitions are in bold, whereas variable calls / reassignments have no font style.  
   <img src="https://github.com/foxhoundn/synthax-code-theme/raw/master/themes/img/examples/variables.png" alt="Syntax Theme | Variables Example" />
