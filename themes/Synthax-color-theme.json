@@ -47,6 +47,7 @@
     "sideBar.background": "#0D0221",
     "sideBar.foreground": "#d0b7ff",
     "sideBarTitle.foreground": "#d0b7ff",
+    "tree.indentGuidesStroke": "#4d3f6b",
 
     // INPUTS
     "input.background": "#0D0221",
