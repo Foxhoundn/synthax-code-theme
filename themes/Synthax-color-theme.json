@@ -201,6 +201,7 @@
       "name": "Function, Special Method",
       "scope": [
         "meta.function-call",
+        "meta.method.declaration",
         "variable.function",
         "support.function",
         "keyword.other.special-method"
@@ -254,6 +255,7 @@
     {
       "name": "Class, Support",
       "scope": [
+        "entity.name.type.class",
         "support.class.component",
         "support.orther.namespace.use.php",
         "meta.use.php",
@@ -261,7 +263,6 @@
         "markup.changed.git_gutter",
         "support.type.sys-types",
         "entity.other.inherited-class",
-        "entity.name.type.class",
         "variable.other.constant entity.name.function",
         "entity.name.function.python",
         "support.function.magic.python"
