@@ -1,45 +1,49 @@
 {
-  "name": "synthax",
-  "displayName": "Synthax",
-  "description": "🔮 Ride on the retro waves of future with this dark colorful theme for VS Code.",
-  "version": "0.1.11",
-  "publisher": "foxhoundn",
-  "icon": "themes/img/synthax_icon.png",
-  "engines": {
-    "vscode": "^1.30.0"
-  },
-  "galleryBanner": {
-    "color": "#0D0221",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Foxhoundn/synthax-code-theme"
-  },
-  "keywords": [
-    "dark",
-    "dark theme",
-    "theme",
-    "VS Code",
-    "vscode",
-    "themes",
-    "retro",
-    "futuristic",
-    "synth",
-    "miami",
-    "sunset",
-    "80s"
-  ],
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Synthax",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Synthax-color-theme.json"
-      }
-    ]
-  }
+    "name": "synthax",
+    "displayName": "Synthax",
+    "description": "🔮 Ride on the retro waves of future with this dark colorful theme for VS Code.",
+    "version": "0.1.12",
+    "publisher": "foxhoundn",
+    "icon": "themes/img/synthax_icon.png",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "galleryBanner": {
+        "color": "#0D0221",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Foxhoundn/synthax-code-theme"
+    },
+    "keywords": [
+        "dark",
+        "dark theme",
+        "theme",
+        "VS Code",
+        "vscode",
+        "themes",
+        "retro",
+        "futuristic",
+        "synth",
+        "miami",
+        "sunset",
+        "80s",
+        "hacker",
+        "vaporwave",
+        "synthwave"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Synthax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Synthax-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
 }
