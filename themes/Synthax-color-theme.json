@@ -12,6 +12,11 @@
     "textLink.foreground": "#d65cd3",
     "focusBorder": "#0dfbffb9",
 
+    // LIST FILTER
+    "listFilterWidget.background": "#0D0221",
+    "listFilterWidget.outline": "#2de2e6",
+    "listFilterWidget.noMatchesOutline": "#D40078",
+
     // EDITOR
     "editor.background": "#11002ea1",
     "editor.foreground": "#d0b7ff",
@@ -119,8 +124,8 @@
     "breadcrumbPicker.background": "#0D0221",
 
     // SELECTION
-    "selection.background": "#210557",
-    "editor.selectionBackground": "#210557",
+    "selection.background": "#720f7598",
+    "editor.selectionBackground": "#720f7598",
 
     // LISTS
     "list.focusBackground": "#1f0233",
@@ -173,7 +178,8 @@
     // BUTTONS
     "button.background": "#2de2e6",
     "button.foreground": "#0D0221",
-    "button.secondaryBackground": "#2de2e6",
+    "button.secondaryBackground": "#e62dc7",
+    "button.secondaryForeground": "#fff"
   },
   "tokenColors": [
     {
