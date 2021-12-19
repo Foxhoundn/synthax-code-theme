@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Release
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the develop branch
+on:
+  push:
+    branches:
+      - master
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  Publish-and-release:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16.13.0
+      - name: Save release version to outputs
+        id: save_release_version
+        run: echo ::set-output name=version::$(node -pe "require('./package.json').version")
+      - name: Installing modules
+        id: install_modules
+        run: |
+          npm install
+      - name: Publish To Marketplace
+        id: publish
+        run: ./node_modules/.bin/vsce publish
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+      - name: Publish To Open VSX
+        id: publish_open_vsx
+        run: npx ovsx publish -p ${{ secrets.OPEN_VSX_TOKEN }}
+      - name: Create a release
+        id: release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.save_release_version.outputs.version }}
+          release_name: v${{ steps.save_release_version.outputs.version }}
+          body: v${{ steps.save_release_version.outputs.version }}
+          draft: false
+          prerelease: false
