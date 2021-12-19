@@ -21,7 +21,7 @@
     "editor.background": "#11002ea1",
     "editor.foreground": "#d0b7ff",
     "editorGroupHeader.tabsBackground": "#0D0221",
-    "editorGroupHeader.tabsBorder": "#0D0221",
+    "editorGroupHeader.tabsBorder": "#00fbff44",
     "editorGroupHeader.border": "#0D0221",
     "editor.lineHighlightBackground": "#2de3e633",
     "editorCursor.foreground": "#d65cd3",
@@ -76,7 +76,7 @@
     "inputOption.activeForeground": "#00fbff",
 
     // WIDGET
-    "widget.shadow": "#5f439431",
+    //"widget.shadow": "#5f439431",
 
     // PANEL
     "panelSectionHeader.foreground": "#2de2e6",
@@ -113,7 +113,7 @@
     "tab.inactiveForeground": "#64fcff85",
     "tab.hoverBackground": "#130331",
     "tab.border": "#0D0221",
-    "tab.activeBorder": "#d65cd3",
+    "tab.activeBorder": "#00fbff",
     "tab.activeBorderTop": "#0D0221",
     "tab.activeModifiedBorder": "#130331",
     "tab.inactiveModifiedBorder": "#0D0221",
@@ -122,6 +122,15 @@
     // BREADCRUMBS
     "breadcrumb.foreground": "#d0b7ff",
     "breadcrumbPicker.background": "#0D0221",
+    "breadcrumb.background": "#0D0221",
+    "breadcrumb.activeSelectionForeground": "#fff",
+    "breadcrumb.focusForeground": "#fff",
+
+    // MENU
+    "menu.foreground": "#d0b7ff",
+    "menu.selectionBackground": "#2de3e634",
+    "menu.selectionForeground": "#00fbff",
+    "menu.separatorBackground": "#00fbff81",
 
     // SELECTION
     "selection.background": "#720f7598",

@@ -45,5 +45,8 @@
             }
         ]
     },
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "vsce": "^2.5.3"
+    }
 }
